@@ -1,0 +1,20 @@
+*{
+    margin: 200;
+    padding: 200;
+    box-sizing: border-box;
+    color: darkslateblue;
+}
+body{
+     background-color: darkslateblue;
+}
+section{
+    padding: 10px;
+    margin: 10px;
+}
+*#personagens{
+    width: 100vw;
+    margin: 10px auto;
+    justify-content:center;
+    align-items: center;
+    background-color:white;
+}
